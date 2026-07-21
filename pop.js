@@ -1,3 +1,3 @@
-let fruites = ["apple", "banana", "orange"];
-let result = fruites.pop();
+let fruits = ["apple", "banana", "orange"];
+let result = fruits.pop();
 console.log(result);
